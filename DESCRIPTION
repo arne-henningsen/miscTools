@@ -16,4 +16,5 @@ Description: Miscellaneous small tools and utilities.
    obtaining the number of (estimated) parameters,
    or calculating R-squared values.
 License: GPL (>= 2)
-URL: http://www.micEcon.org
+URL: https://github.com/arne-henningsen/miscTools
+BugReports: https://github.com/arne-henningsen/miscTools/issues
