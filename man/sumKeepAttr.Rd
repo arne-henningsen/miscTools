@@ -16,7 +16,7 @@ sumKeepAttr( x, keepNames = FALSE, na.rm = FALSE )
    \item{x}{an numeric array (e.g. vector or matrix).}
    \item{keepNames}{logical. Should the name(s) of the element(s) of\code{x}
       be assigned to the returned sum?
-      (only relevant if code{x} has only one element).}
+      (only relevant if \code{x} has only one element).}
    \item{na.rm}{logical. Passed to \code{\link[base]{sum}}.
       Should missing values be removed?}
 }
