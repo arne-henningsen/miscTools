@@ -1,6 +1,6 @@
 Package: miscTools
-Version: 0.6-29
-Date: 2023-05-03
+Version: 0.6-30
+Date: 2026-01-19
 Title: Miscellaneous Tools and Utilities
 Authors@R: c(
   person( given = "Arne", family = "Henningsen", role = c( "aut", "cre" ),
